@@ -98,9 +98,9 @@ private data class CommunityLink(
 )
 
 private val meldDeveloper = Contributor(
-    name = "Francesco Grazioso",
+    name = "AHR",
     roleRes = R.string.credits_developer,
-    githubHandle = "FrancescoGrazioso",
+    githubHandle = "AHR",
 )
 
 @OptIn(ExperimentalMaterial3ExpressiveApi::class)
@@ -119,9 +119,9 @@ private val upstreamCollaborators = listOf(
 )
 
 private val communityLinks = listOf(
-    CommunityLink(R.string.credits_discord, R.drawable.discord, "https://discord.gg/sAErRUVbsK"),
-    CommunityLink(R.string.credits_view_repo, R.drawable.github, "https://github.com/FrancescoGrazioso/Meld"),
-    CommunityLink(R.string.credits_license_name, R.drawable.info, "https://github.com/FrancescoGrazioso/Meld/blob/main/LICENSE")
+    CommunityLink(R.string.credits_discord, R.drawable.discord, "https://t.me/rnexflix"),
+    CommunityLink(R.string.credits_view_repo, R.drawable.github, "https://t.me/rnexflix"),
+    CommunityLink(R.string.credits_license_name, R.drawable.info, "https://t.me/rnexflix")
 )
 
 private fun handleEasterEggClick(
