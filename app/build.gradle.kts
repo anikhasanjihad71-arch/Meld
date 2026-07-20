@@ -30,7 +30,7 @@ android {
     compileSdk = 36
 
     defaultConfig {
-        applicationId = applicationIdOverride ?: "com.meld.app"
+        applicationId = applicationIdOverride ?: "com.ahr.rasmusic"
         minSdk = 26
         targetSdk = 36
         versionCode = 17
