@@ -30,12 +30,12 @@ android {
     compileSdk = 36
 
     defaultConfig {
-        applicationId = applicationIdOverride ?: "com.meld.app"
+        applicationId = applicationIdOverride ?: "com.ahr.rasmusic"
         minSdk = 26
         targetSdk = 36
         versionCode = 17
         versionName = "0.7.2"
-        resValue("string", "app_name", appNameOverride ?: "Meld")
+        resValue("string", "app_name", appNameOverride ?: "Ras Music")
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables.useSupportLibrary = true
@@ -131,7 +131,7 @@ android {
             }
             isDebuggable = true
             if (appNameOverride == null) {
-                resValue("string", "app_name", "Meld Debug")
+                resValue("string", "app_name", "Ras Music Debug")
             }
             signingConfig =
                 if (workflowDebugKeystoreFile != null) {
