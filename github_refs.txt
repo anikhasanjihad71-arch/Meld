@@ -1,0 +1,11 @@
+./lastfm/src/main/kotlin/com/metrolist/lastfm/LastFM.kt:53:        userAgent("Meld (https://github.com/FrancescoGrazioso/Meld)")
+./app/src/main/res/values/metrolist_strings.xml:242:    <string name="github_releases_url">https://github.com/FrancescoGrazioso/Meld/releases</string>
+./app/src/main/res/values/metrolist_strings.xml:244:    <string name="view_on_github">View on GitHub</string>
+./app/src/main/kotlin/com/metrolist/music/playback/MusicService.kt:2659:     * see github.com/FrancescoGrazioso/Meld/issues/94. Suppresses the crash
+./app/src/main/kotlin/com/metrolist/music/ui/screens/settings/integrations/DiscordSettings.kt:965:                                "https://github.com/FrancescoGrazioso/Meld".toUri(),
+./app/src/main/kotlin/com/metrolist/music/ui/screens/settings/AboutScreen.kt:103:    githubHandle = "FrancescoGrazioso",
+./app/src/main/kotlin/com/metrolist/music/ui/screens/settings/AboutScreen.kt:123:    CommunityLink(R.string.credits_view_repo, R.drawable.github, "https://github.com/FrancescoGrazioso/Meld"),
+./app/src/main/kotlin/com/metrolist/music/ui/screens/settings/AboutScreen.kt:124:    CommunityLink(R.string.credits_license_name, R.drawable.info, "https://github.com/FrancescoGrazioso/Meld/blob/main/LICENSE")
+./app/src/main/kotlin/com/metrolist/music/utils/SpotifyHashSync.kt:34:            "https://francescograzioso.github.io/Meld/spotify-gql-hashes.json"
+./app/src/main/kotlin/com/metrolist/music/utils/DiscordRPC.kt:65:            buttonsList.add(resolvedText to "https://github.com/FrancescoGrazioso/Meld")
+./app/src/main/kotlin/com/metrolist/music/utils/Updater.kt:42:    private const val GITHUB_API_BASE = "https://api.github.com/repos/FrancescoGrazioso/Meld"
